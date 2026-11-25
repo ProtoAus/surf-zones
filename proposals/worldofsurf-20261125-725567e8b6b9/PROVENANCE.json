@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "dataset_sha256": "725567e8b6b97e7563ffe4eaf4225edaca267fc2c1258d761b7fb62b9d0d74dc",
+  "release_tag": "wos-zones-20261125-725567e8b6b9",
+  "release_url": "https://github.com/ProtoAus/surf-zones/releases/tag/wos-zones-20261125-725567e8b6b9",
+  "proposal_namespace": "proposals/worldofsurf-20261125-725567e8b6b9",
+  "source_scope": "observed public manifest objects + missing-alias public native URL probes; no editor drafts",
+  "capture_started_utc": "2026-11-25T07:50:14.913132+00:00",
+  "capture_ended_utc": "2026-11-25T07:52:28.873323+00:00",
+  "source_manifest_sha256": "baa456828ecc86eacf38ec5ba3bf81e58ade88dcf9079cb9247234d7e89e6ee3",
+  "source_manifest_generated_utc": "2026-11-25T07:35:02Z",
+  "catalogue_sha256": "486c1e230b1559d015b270b5be067899cc38a5253a660040950d94a701bc9887",
+  "closing_observation": {
+    "added": [],
+    "removed": [],
+    "changed": [],
+    "catalogue_sha256_open": "486c1e230b1559d015b270b5be067899cc38a5253a660040950d94a701bc9887",
+    "catalogue_sha256_close": "486c1e230b1559d015b270b5be067899cc38a5253a660040950d94a701bc9887"
+  },
+  "converter_commit": "bcf7bc81cce1fe16f41a5dbdfcc5dbb018b47451",
+  "converter_sha256": "d17e38b976cfd29784cbf053b690764edbb8c9ef7cbbf4d789b546169827e65f",
+  "timer_ref": "71e4beb680407870239c9fd889ac5d29d527536d",
+  "upstream_ref": "51025635e19b833c00bb69c88559cea087434e0d",
+  "permission": "redistribution/public downloads/draft contribution expressly confirmed by collection operator",
+  "license": "original source terms retained; no new third-party public-domain dedication",
+  "native_files": 1769,
+  "classified_inputs": 1754,
+  "native_only_other_unheld": 15,
+  "capture_counts": {
+    "captured": 1769,
+    "origin-http-404": 516
+  },
+  "conversion_counts": {
+    "surf": {
+      "review-candidate": 924,
+      "existing-upstream-untouched": 76,
+      "blocked-no-partial-map": 154
+    },
+    "bhop": {
+      "review-candidate": 554,
+      "blocked-no-partial-map": 46
+    }
+  },
+  "candidate_profiles": {
+    "surf": {
+      "strict": 222,
+      "geometry-proposal": 702
+    },
+    "bhop": {
+      "geometry-proposal": 214,
+      "strict": 340
+    }
+  },
+  "certification": "unverified CS:S timing/restart/physics; review candidates only"
+}
